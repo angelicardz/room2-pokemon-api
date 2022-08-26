@@ -1,3 +1,24 @@
 body{
-    background-color: red;
+    background-color: #F5DEB3;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #DC143C;
+    size: 500px;
+    font-style: italic;
+    font-weight: 800;
+}
+
+h2{
+    color: #4169E1;
+}
+
+.nombres{
+    background-color: white;
+    color:#4169E1;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    margin: 20px;
+    
 }
